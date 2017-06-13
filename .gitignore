@@ -1,0 +1,11 @@
+target/*
+.idea/*
+*.iml
+.git/*
+.svn/*
+*.jar
+checkpoint/*
+output/*
+tmp/*
+*.bak
+out/*
